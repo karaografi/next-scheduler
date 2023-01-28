@@ -7,8 +7,8 @@ Getting FullCalendar Premium to work with [Next.js](https://nextjs.org/) require
 ## Installation
 
 ```bash
-git clone https://github.com/fullcalendar/fullcalendar-examples.git
-cd fullcalendar-examples/next-scheduler
+git clone https://github.com/karaografi/next-scheduler.git
+cd next-scheduler
 npm install
 ```
 
